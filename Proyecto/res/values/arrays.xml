@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Lineas">
+		<item>Seleccione Linea</item>
+		<item>Linea 29 - Olivos</item>
+		<item>Linea 29 - Boca</item>
+		<item>Linea 15 - Boca</item>
+	</string-array>
+</resources>
